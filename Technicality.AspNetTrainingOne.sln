@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Technicality.AspNetTrainingOne", "Technicality.AspNetTrainingOne\Technicality.AspNetTrainingOne.csproj", "{1ECC1F88-F61D-4D42-8357-767DC405D31B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1ECC1F88-F61D-4D42-8357-767DC405D31B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ECC1F88-F61D-4D42-8357-767DC405D31B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ECC1F88-F61D-4D42-8357-767DC405D31B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ECC1F88-F61D-4D42-8357-767DC405D31B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {513EE4FA-10F5-4761-BAB4-4B38261B3A19}
+	EndGlobalSection
+EndGlobal
