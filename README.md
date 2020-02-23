@@ -11,3 +11,7 @@ The first commit is a "stock" ASP.Net (Framework, not Core) project created with
 It has a simple Entity Framework Code First DbContext containing one entity - City.
 
 It uses a Migration to create the database, create the table and populate the table with data using the Seed method.
+
+## 2. Scaffolded Cities controller and views
+
+A new controller was added (Cities) and used the "MVC 5 Controller with views, using Entity Framework" option. The only other change was the Cities was added to the top level menu in the \_Layout.cshtml in the Views\Shared folder.
