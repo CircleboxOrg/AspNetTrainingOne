@@ -188,6 +188,7 @@
     <Compile Include="Controllers\CitiesController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\KendoCityController.cs" />
+    <Compile Include="Controllers\TenantController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -2798,6 +2799,7 @@
     <Content Include="Scripts\kendo\2020.1.114\cultures\kendo.culture.aa-ET.min.js.map" />
     <Content Include="Scripts\kendo\2020.1.114\cultures\kendo.culture.aa-ER.min.js.map" />
     <Content Include="Scripts\kendo\2020.1.114\cultures\kendo.culture.aa-DJ.min.js.map" />
+    <Content Include="Views\Tenant\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
